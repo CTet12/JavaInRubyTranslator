@@ -1,0 +1,16 @@
+C:\Users\Vitek\source\repos\Turov\JavaInRubyTranslator\bin\Debug\net6.0\JavaInRubyTranslator.exe
+C:\Users\Vitek\source\repos\Turov\JavaInRubyTranslator\bin\Debug\net6.0\JavaInRubyTranslator.deps.json
+C:\Users\Vitek\source\repos\Turov\JavaInRubyTranslator\bin\Debug\net6.0\JavaInRubyTranslator.runtimeconfig.json
+C:\Users\Vitek\source\repos\Turov\JavaInRubyTranslator\bin\Debug\net6.0\JavaInRubyTranslator.dll
+C:\Users\Vitek\source\repos\Turov\JavaInRubyTranslator\bin\Debug\net6.0\ref\JavaInRubyTranslator.dll
+C:\Users\Vitek\source\repos\Turov\JavaInRubyTranslator\bin\Debug\net6.0\JavaInRubyTranslator.pdb
+C:\Users\Vitek\source\repos\Turov\JavaInRubyTranslator\obj\Debug\net6.0\JavaInRubyTranslator.csproj.AssemblyReference.cache
+C:\Users\Vitek\source\repos\Turov\JavaInRubyTranslator\obj\Debug\net6.0\JavaInRubyTranslator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitek\source\repos\Turov\JavaInRubyTranslator\obj\Debug\net6.0\JavaInRubyTranslator.AssemblyInfoInputs.cache
+C:\Users\Vitek\source\repos\Turov\JavaInRubyTranslator\obj\Debug\net6.0\JavaInRubyTranslator.AssemblyInfo.cs
+C:\Users\Vitek\source\repos\Turov\JavaInRubyTranslator\obj\Debug\net6.0\JavaInRubyTranslator.csproj.CoreCompileInputs.cache
+C:\Users\Vitek\source\repos\Turov\JavaInRubyTranslator\obj\Debug\net6.0\JavaInRubyTranslator.dll
+C:\Users\Vitek\source\repos\Turov\JavaInRubyTranslator\obj\Debug\net6.0\ref\JavaInRubyTranslator.dll
+C:\Users\Vitek\source\repos\Turov\JavaInRubyTranslator\obj\Debug\net6.0\JavaInRubyTranslator.pdb
+C:\Users\Vitek\source\repos\Turov\JavaInRubyTranslator\obj\Debug\net6.0\JavaInRubyTranslator.genruntimeconfig.cache
+C:\Users\step_\OneDrive\Рабочий стол\Translation\Turov\JavaInRubyTranslator\obj\Debug\net6.0\JavaInRubyTranslator.pdb
